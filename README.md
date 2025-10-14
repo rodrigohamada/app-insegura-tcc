@@ -45,5 +45,3 @@ Esta aplicação serve como **exemplo prático** para:
 - Evidenciar a importância de integrar **scanners de segurança** em pipelines DevSecOps.  
 
 ---
-
-⚠️ **Atenção:** Nunca use este código em produção. Ele foi feito **apenas para fins educacionais e de demonstração**.
